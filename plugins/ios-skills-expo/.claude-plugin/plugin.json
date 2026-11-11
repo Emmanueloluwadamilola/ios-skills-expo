@@ -1,0 +1,6 @@
+{
+  "name": "ios-skills-expo",
+  "version": "1.0.0",
+  "description": "Expo & EAS best-practice skills for building, deploying, and upgrading Expo / React Native apps.",
+  "author": { "name": "Expo Team" }
+}

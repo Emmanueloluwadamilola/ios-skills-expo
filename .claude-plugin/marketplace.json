@@ -1,0 +1,8 @@
+{
+  "name": "ios-skills-expo",
+  "owner": { "name": "Emmanueloluwadamilola" },
+  "metadata": { "description": "Expo & EAS best-practice skills for building, deploying, and upgrading Expo / React Native apps. (curated mirror of https://github.com/expo/skills)" },
+  "plugins": [
+    { "name": "ios-skills-expo", "source": "./plugins/ios-skills-expo", "description": "Expo & EAS best-practice skills for building, deploying, and upgrading Expo / React Native apps." }
+  ]
+}
